@@ -1,5 +1,7 @@
 // gets a list of notes from a file //
 
+// function code //
+
 export default {
   id1: {
     noteId: "id1",
